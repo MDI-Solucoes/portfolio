@@ -10,7 +10,7 @@
 
 <!-- Animated text -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&width=290&lines=PROJECT;NAME"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&width=290&lines=PORTFOLIO"/>
 </div>
 
 <h2 align="right">1.1. INTRODUCTION 📰</h2>
