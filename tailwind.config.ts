@@ -10,6 +10,7 @@ const config: Config = {
     extend: {
       colors: {
         primary: "#FF00FF",
+        secondary: "#FFFFFF",
       },
       keyframes: {
         slideTopToBottom: {
