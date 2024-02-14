@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+*:after,
+*:before {
+  @apply m-0 p-0 box-border no-underline;
+}
+
+body {
+  @apply min-w-[320px] text-[100%] list-none;
+}
