@@ -13,13 +13,18 @@ const config: Config = {
         secondary: "#FFFFFF",
       },
       keyframes: {
-        slideTopToBottom: {
+        "top-to-bottom": {
           "0%": { transform: "translateY(-25vh)" },
           "100%": { transform: "translateY(0vh)" },
         },
+        "left-to-right": {
+          "0%": { transform: "translateX(-100vw)" },
+          "100%": { transform: "translateX(0vw)" },
+        },
       },
       animation: {
-        slideTopToBottom: "slideTopToBottom 1s ease-in-out",
+        "top-to-bottom": "top-to-bottom 1s ease-in-out",
+        "left-to-right": "left-to-right 1s ease-in-out",
       },
     },
   },

@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const Header = () => {
   return (
-    <header className="flex items-center h-28 p-10 animate-slideTopToBottom">
+    <header className="flex items-center h-28 p-10 animate-top-to-bottom">
       <div className="flex space-x-8 text-primary">
         <a href="#" className="">
           <svg
