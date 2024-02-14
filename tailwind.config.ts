@@ -11,6 +11,15 @@ const config: Config = {
       colors: {
         primary: "#FF00FF",
       },
+      keyframes: {
+        slideTopToBottom: {
+          "0%": { transform: "translateY(-25vh)" },
+          "100%": { transform: "translateY(0vh)" },
+        },
+      },
+      animation: {
+        slideTopToBottom: "slideTopToBottom 1s ease-in-out",
+      },
     },
   },
   plugins: [],
