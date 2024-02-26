@@ -48,14 +48,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p align="right">Use the following commands (if there are commands) by <kbd>CTRL</kbd>+<kbd>V</kbd> where necessary</p>
 
 📌 IMPORT THE CODE  
-📌 INSTALL PROJECT DEPENDENCIES
-
+📌 INSTALL PROJECT DEPENDENCIES  
 ```
 npm install
 ```
 
-📌 START THE PROJECT
-
+📌 START THE PROJECT  
 ```
 npm run dev
 ```
